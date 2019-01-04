@@ -2,6 +2,6 @@ public class Zebra
 {
 	public Zebra()
 	{
-		System.out.printeln("Sara");
+		System.out.println("Sara");
 	}
 }
