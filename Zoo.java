@@ -4,6 +4,7 @@ public class Zoo
 	{
 	System.out.println("Welcome to Zoo Git");
 	Zebra zebra = new Zebra();
-	Hippo hippo = new Hippo();
+	Hippo hippo = new Hippo();	
+	Penguin penguin=new Penguin();
 	}
 }
